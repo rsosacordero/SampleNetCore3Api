@@ -1,0 +1,9 @@
+C:\Dev\Pwc.Api\Pwc.Api.Data\obj\Debug\netcoreapp3.1\Pwc.Api.Data.AssemblyInfoInputs.cache
+C:\Dev\Pwc.Api\Pwc.Api.Data\obj\Debug\netcoreapp3.1\Pwc.Api.Data.AssemblyInfo.cs
+C:\Dev\Pwc.Api\Pwc.Api.Data\bin\Debug\netcoreapp3.1\Pwc.Api.Data.deps.json
+C:\Dev\Pwc.Api\Pwc.Api.Data\bin\Debug\netcoreapp3.1\Pwc.Api.Data.runtimeconfig.json
+C:\Dev\Pwc.Api\Pwc.Api.Data\bin\Debug\netcoreapp3.1\Pwc.Api.Data.runtimeconfig.dev.json
+C:\Dev\Pwc.Api\Pwc.Api.Data\bin\Debug\netcoreapp3.1\Pwc.Api.Data.dll
+C:\Dev\Pwc.Api\Pwc.Api.Data\bin\Debug\netcoreapp3.1\Pwc.Api.Data.pdb
+C:\Dev\Pwc.Api\Pwc.Api.Data\obj\Debug\netcoreapp3.1\Pwc.Api.Data.dll
+C:\Dev\Pwc.Api\Pwc.Api.Data\obj\Debug\netcoreapp3.1\Pwc.Api.Data.pdb
